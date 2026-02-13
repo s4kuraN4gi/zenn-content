@@ -1,0 +1,10 @@
+node_modules
+.DS_Store
+
+# 作業用ファイル（Zennには不要）
+article-log.md
+article-concept.md
+level1-1/
+level1-2/
+.mcp.json
+.claude/
