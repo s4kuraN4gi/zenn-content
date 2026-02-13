@@ -3,7 +3,7 @@ title: "Claude Codeの「Skills」で開発が変わる — 既存スキル活�
 emoji: "🛠"
 type: "tech"
 topics: ["ClaudeCode", "Claude", "AI", "個人開発", "効率化"]
-published: false
+published: true
 ---
 
 ## はじめに
