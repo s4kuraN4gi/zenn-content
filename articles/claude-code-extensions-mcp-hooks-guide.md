@@ -1,5 +1,5 @@
 ---
-title: "Claude Codeを"拡張"する — MCP・CLAUDE.md・Hooksで自分だけの開発環境を作る"
+title: "Claude Codeを『拡張』する — MCP・CLAUDE.md・Hooksで自分だけの開発環境を作る"
 emoji: "🔌"
 type: "tech"
 topics: ["ClaudeCode", "Claude", "AI", "MCP", "個人開発"]
