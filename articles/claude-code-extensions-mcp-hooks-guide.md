@@ -3,7 +3,7 @@ title: "Claude Codeを『拡張』する — MCP・CLAUDE.md・Hooksで自分だ
 emoji: "🔌"
 type: "tech"
 topics: ["ClaudeCode", "Claude", "AI", "MCP", "個人開発"]
-published: false
+published: true
 ---
 
 ## はじめに
